@@ -1,1 +1,2 @@
 # GANs-Pyorch-Model-for-Deep-Noise-Improvement
+ In this project, we are incorporating a Gammatone-based auditory filtering layer and a trainable pre-emphasis layer to further improve the performance of the cGAN framework. Simulation results show that the proposed approaches improve the speech enhancement performance of cGAN systems in addition to yielding improved stability and reduced computational effort.
